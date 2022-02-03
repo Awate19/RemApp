@@ -1,0 +1,7 @@
+{
+  "jwtPrivateKey": "laptopShop",
+  "db": "mongodb://localhost/ECOM",
+  "domain": "localhost:5000",
+  "email": "awega2010@gmail.com",
+  "password": "07153562"
+}
